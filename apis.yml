@@ -28,6 +28,8 @@ apis:
     description: >-
       The South Jersey Industries API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/south-jersey-industries-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/south-jersey-industries
   - type: Website
